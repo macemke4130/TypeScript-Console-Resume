@@ -1,0 +1,23 @@
+{
+  "name": "typescript-console-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macemke4130/TypeScript-Console-Resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macemke4130/TypeScript-Console-Resume/issues"
+  },
+  "homepage": "https://github.com/macemke4130/TypeScript-Console-Resume#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
